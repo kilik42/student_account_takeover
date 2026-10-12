@@ -1,0 +1,4 @@
+2026-10-08T18:15:01Z alert_id=A01 severity=MEDIUM rule=NEW_IP user=echo_mod ip=198.51.100.77 session=S810 status=REVIEW_REQUIRED
+2026-10-08T18:46:21Z alert_id=A02 severity=MEDIUM rule=NEW_IP user=nova_mod ip=203.0.113.88 session=S900 status=REVIEW_REQUIRED
+2026-10-08T18:47:01Z alert_id=A03 severity=HIGH rule=RECOVERY_CHANGE_AFTER_NEW_LOGIN user=nova_mod session=S900 status=REVIEW_REQUIRED
+2026-10-08T18:49:01Z alert_id=A04 severity=HIGH rule=NEW_SESSION_POSTS_EXTERNAL_LINK user=nova_mod session=S900 message_id=M105 status=REVIEW_REQUIRED

@@ -1,0 +1,4 @@
+# Fictional interviews taken 2026-10-08T19:05:00Z by River
+N01 — Nova: I got a message from a name that looked like official support. I typed my username and password into its form. I did not deliberately change my recovery email or password, and I did not post a giveaway. I normally use nova-laptop. I do not recognize the unknown-browser entry.
+N02 — Echo: I used echo-phone on the library guest Wi-Fi at 18:15Z today. I approved my own MFA challenge. I made no account-setting changes. Confirmed by Echo in a separate conversation with River.
+N03 — River: Message M105 was removed at 18:52:30Z. Removing the message did not restore Nova's account. Account recovery is still pending at the end of the evidence window. We have not collected other members' browser or login records.

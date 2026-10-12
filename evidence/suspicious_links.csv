@@ -1,0 +1,4 @@
+link_id,url,seen_in,triage_label,reason
+L01,https://pixelharbor.example/events,M100,EXPECTED,Community event page in admin announcement
+L02,https://discord-safety.example/verify,M102,REVIEW,Unsolicited verification request with deadline
+L03,https://pixel-prizes.example/claim,M105,REVIEW,Unexpected giveaway posted after account changes

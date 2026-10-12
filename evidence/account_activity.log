@@ -1,0 +1,6 @@
+2026-10-08T18:40:00Z event=MESSAGE_POST user=nova_mod session=S800 message_id=M101 channel=general
+2026-10-08T18:47:00Z event=RECOVERY_EMAIL_CHANGE user=nova_mod session=S900 old=nova@pixelharbor.example new=resetbox@inbox.example
+2026-10-08T18:48:00Z event=PASSWORD_CHANGE user=nova_mod session=S900
+2026-10-08T18:48:30Z event=SESSION_REVOKE user=nova_mod actor_session=S900 target_session=S800 reason=LOG_OUT_OTHER_SESSIONS
+2026-10-08T18:49:00Z event=MESSAGE_POST user=nova_mod session=S900 message_id=M105 channel=announcements url=https://pixel-prizes.example/claim
+2026-10-08T18:52:30Z event=MESSAGE_REMOVE user=river_admin session=S920 message_id=M105 reason=SUSPECTED_SCAM

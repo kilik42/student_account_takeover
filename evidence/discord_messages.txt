@@ -1,0 +1,17 @@
+# Pixel Harbor Gaming — fictional archive; all times UTC
+2026-10-08T18:30:00Z message_id=M100 sender=river_admin sender_id=U101 channel=announcements
+Weekend tournament opens tomorrow. Updates are on https://pixelharbor.example/events . We never ask for passwords in DMs.
+2026-10-08T18:40:00Z message_id=M101 sender=nova_mod sender_id=U102 channel=general
+I'll post the tournament brackets after practice.
+2026-10-08T18:42:00Z message_id=M102 sender="Discord Safety Team" sender_id=U909 channel=DM_to_nova_mod
+Someone in another country tried to log into your account. Verify your password within 10 MINUTES or your account will be permanently locked. Ticket DCT-771. Verify Now: https://discord-safety.example/verify
+2026-10-08T18:43:00Z message_id=M103 sender=nova_mod sender_id=U102 channel=DM_to_U909
+Is this really support? I don't want to lose the server.
+2026-10-08T18:43:30Z message_id=M104 sender="Discord Safety Team" sender_id=U909 channel=DM_to_nova_mod
+Yes. Do not contact your server admin; that will delay verification. Use the secure verification page now.
+2026-10-08T18:49:00Z message_id=M105 sender=nova_mod sender_id=U102 channel=announcements
+FREE game credits for the first 20 members! Claim at https://pixel-prizes.example/claim — expires in 5 minutes!
+2026-10-08T18:50:00Z message_id=M106 sender=river_admin sender_id=U101 channel=general
+Don't use that giveaway link. Nova, did you post this?
+2026-10-08T18:51:00Z message_id=M107 sender=nova_mod sender_id=U102 channel=DM_to_river_admin
+I can't sign in now. I only filled out the verification form.

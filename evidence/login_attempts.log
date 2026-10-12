@@ -1,0 +1,10 @@
+2026-10-07T17:00:00Z event=LOGIN user=nova_mod result=SUCCESS ip=192.0.2.24 device=nova-laptop auth=password mfa=NOT_ENABLED session=S700
+2026-10-08T17:55:00Z event=LOGIN user=river_admin result=SUCCESS ip=192.0.2.10 device=river-laptop auth=password mfa=PASS session=S790
+2026-10-08T18:00:00Z event=LOGIN user=nova_mod result=SUCCESS ip=192.0.2.24 device=nova-laptop auth=password mfa=NOT_ENABLED session=S800
+2026-10-08T18:15:00Z event=LOGIN user=echo_mod result=SUCCESS ip=198.51.100.77 device=echo-phone auth=password mfa=PASS session=S810
+2026-10-08T18:20:00Z event=LOGIN user=byte_builder result=FAILED ip=192.0.2.33 device=byte-laptop reason=BAD_PASSWORD session=NONE
+2026-10-08T18:21:00Z event=LOGIN user=byte_builder result=SUCCESS ip=192.0.2.33 device=byte-laptop auth=password mfa=PASS session=S820
+2026-10-08T18:46:00Z event=LOGIN user=nova_mod result=FAILED ip=203.0.113.88 device=unknown-browser reason=BAD_PASSWORD session=NONE
+2026-10-08T18:46:20Z event=LOGIN user=nova_mod result=SUCCESS ip=203.0.113.88 device=unknown-browser auth=password mfa=NOT_ENABLED session=S900
+2026-10-08T18:50:50Z event=LOGIN user=nova_mod result=FAILED ip=192.0.2.24 device=nova-laptop reason=BAD_PASSWORD session=NONE
+2026-10-08T18:52:00Z event=LOGIN user=river_admin result=SUCCESS ip=192.0.2.10 device=river-laptop auth=password mfa=PASS session=S920

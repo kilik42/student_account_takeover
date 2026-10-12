@@ -1,0 +1,3 @@
+2026-10-08T18:44:10Z event=PAGE_LOAD device=nova-laptop user=nova_mod url=https://discord-safety.example/verify tls=true
+2026-10-08T18:45:00Z event=FORM_SUBMIT device=nova-laptop user=nova_mod destination_host=discord-safety.example method=POST field_names=username,password values_recorded=false
+2026-10-08T18:45:03Z event=PAGE_LOAD device=nova-laptop user=nova_mod url=https://discord-safety.example/complete tls=true

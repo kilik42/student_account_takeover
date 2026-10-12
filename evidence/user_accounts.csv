@@ -1,0 +1,5 @@
+user_id,username,role,mfa_enabled,recovery_email,password_last_changed_utc
+U101,river_admin,administrator,true,river@pixelharbor.example,2026-09-01T12:00:00Z
+U102,nova_mod,moderator,false,nova@pixelharbor.example,2026-08-15T12:00:00Z
+U103,byte_builder,member,true,byte@pixelharbor.example,2026-09-20T12:00:00Z
+U104,echo_mod,moderator,true,echo@pixelharbor.example,2026-09-10T12:00:00Z
